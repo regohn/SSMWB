@@ -1,0 +1,1349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 0,
+        "AirportCode": "ABE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4404058,
+          40.6523628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 1,
+        "AirportCode": "ACV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.106929,
+          40.970912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 2,
+        "AirportCode": "BDL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6843158,
+          41.9390322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 3,
+        "AirportCode": "BFL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0576667,
+          35.4338611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 4,
+        "AirportCode": "BOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0063889,
+          42.3629444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 5,
+        "AirportCode": "BTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.153297,
+          44.471901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 6,
+        "AirportCode": "BUF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7305697,
+          42.9404272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 7,
+        "AirportCode": "BWI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6689911,
+          39.1757283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 8,
+        "AirportCode": "DEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6731667,
+          39.8616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 9,
+        "AirportCode": "EWR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1686878,
+          40.6924806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 10,
+        "AirportCode": "FAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7188333,
+          36.7765556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 11,
+        "AirportCode": "GJT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5254856,
+          39.1214992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 12,
+        "AirportCode": "HVN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8868191,
+          41.2663111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 13,
+        "AirportCode": "HYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2803592,
+          41.6693372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 14,
+        "AirportCode": "IFP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5593322,
+          35.1546144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 15,
+        "AirportCode": "ISP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.100197,
+          40.7952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 16,
+        "AirportCode": "ITH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4587222,
+          42.4913611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 17,
+        "AirportCode": "JFK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7786922,
+          40.6399281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 18,
+        "AirportCode": "KOA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0461192,
+          19.7332772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 19,
+        "AirportCode": "LAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1524486,
+          36.0803428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 20,
+        "AirportCode": "LAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4080486,
+          33.9424964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 21,
+        "AirportCode": "LGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8726056,
+          40.7772422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 22,
+        "AirportCode": "LGB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1518906,
+          33.8179297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 23,
+        "AirportCode": "MCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.309,
+          28.4293889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 24,
+        "AirportCode": "MIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2901158,
+          25.7953611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 25,
+        "AirportCode": "MOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.95443,
+          37.6258247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 26,
+        "AirportCode": "MYV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5698333,
+          39.0977778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 27,
+        "AirportCode": "OAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2211506,
+          37.7212614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 28,
+        "AirportCode": "OGG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4302778,
+          20.8986111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 29,
+        "AirportCode": "ONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6011875,
+          34.0560142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 30,
+        "AirportCode": "ORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9081497,
+          41.9769403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 31,
+        "AirportCode": "OXR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2072264,
+          34.2008069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 32,
+        "AirportCode": "PHL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2406631,
+          39.8720839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 33,
+        "AirportCode": "PHX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0115833,
+          33.4342778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 34,
+        "AirportCode": "PSP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5066667,
+          33.8297222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 35,
+        "AirportCode": "RDD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2933853,
+          40.5089853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 36,
+        "AirportCode": "RNO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7681111,
+          39.4991111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 37,
+        "AirportCode": "SAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1896633,
+          32.7335628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 38,
+        "AirportCode": "SBD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2348889,
+          34.0953611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 39,
+        "AirportCode": "SBP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6426028,
+          35.2372725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 40,
+        "AirportCode": "SDX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.788,
+          34.8486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 41,
+        "AirportCode": "SFO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3754167,
+          37.6188056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 42,
+        "AirportCode": "SJC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9286206,
+          37.3629947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 43,
+        "AirportCode": "SMF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5907778,
+          38.6954444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 44,
+        "AirportCode": "SNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8682331,
+          33.6756619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 45,
+        "AirportCode": "SPI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6755951,
+          39.8455406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 46,
+        "AirportCode": "STS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8128889,
+          38.5096944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 47,
+        "AirportCode": "SWF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.104797,
+          41.504101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 48,
+        "AirportCode": "TPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5332475,
+          27.9754694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 49,
+        "AirportCode": "TUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9414628,
+          32.1170682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 50,
+        "AirportCode": "YUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.605,
+          32.656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 51,
+        "AirportCode": "5A8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.6179962,
+          59.2826004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 52,
+        "AirportCode": "ABQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.608925,
+          35.039976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 53,
+        "AirportCode": "ADW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.866997,
+          38.810799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 54,
+        "AirportCode": "ATL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.428101,
+          33.6367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 55,
+        "AirportCode": "AUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.662015,
+          30.197535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 56,
+        "AirportCode": "CLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8498,
+          41.411701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 57,
+        "AirportCode": "CLT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9431,
+          35.2140007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 58,
+        "AirportCode": "CMH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.891899,
+          39.998001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 59,
+        "AirportCode": "CVG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.667801,
+          39.048801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 60,
+        "AirportCode": "DCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.037697,
+          38.8521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 61,
+        "AirportCode": "DFW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.038002,
+          32.896801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 62,
+        "AirportCode": "DMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8830032,
+          32.1665001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 63,
+        "AirportCode": "DTW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.353786,
+          42.21377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 64,
+        "AirportCode": "FST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9160004,
+          30.9157009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 65,
+        "AirportCode": "IAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.455803,
+          38.9445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 66,
+        "AirportCode": "IAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3414001,
+          29.9843998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 67,
+        "AirportCode": "IND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.294403,
+          39.7173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 68,
+        "AirportCode": "JAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.687813,
+          30.492469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 69,
+        "AirportCode": "MCI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.713898,
+          39.2976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 70,
+        "AirportCode": "MDW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.752403,
+          41.785999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 71,
+        "AirportCode": "MEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9767,
+          35.0424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 72,
+        "AirportCode": "MKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.896599,
+          42.947201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 73,
+        "AirportCode": "MSP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.221741,
+          44.880081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 74,
+        "AirportCode": "MSY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.258003,
+          29.993401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 75,
+        "AirportCode": "OKC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.598248,
+          35.393388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 76,
+        "AirportCode": "ORF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.201,
+          36.895341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 77,
+        "AirportCode": "PBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.095596,
+          26.683201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 78,
+        "AirportCode": "PDX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.598,
+          45.588699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 79,
+        "AirportCode": "PIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.232903,
+          40.491501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 80,
+        "AirportCode": "PVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.425668,
+          41.725038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 81,
+        "AirportCode": "PWM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.309303,
+          43.646198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 82,
+        "AirportCode": "RDU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.787498,
+          35.877602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 83,
+        "AirportCode": "RIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.319702,
+          37.505199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 84,
+        "AirportCode": "RSW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7552032,
+          26.5361996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 85,
+        "AirportCode": "SAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.469803,
+          29.533701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 86,
+        "AirportCode": "SAV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.202103,
+          32.127602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 87,
+        "AirportCode": "SDF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.736,
+          38.1744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 88,
+        "AirportCode": "SEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310276,
+          47.447943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 89,
+        "AirportCode": "SFB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2375031,
+          28.7775993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 90,
+        "AirportCode": "SLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.979866,
+          40.78886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 91,
+        "AirportCode": "SRQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.554359,
+          27.394631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 92,
+        "AirportCode": "STL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.370003,
+          38.748697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 93,
+        "AirportCode": "SYR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1063004,
+          43.1111984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 94,
+        "AirportCode": "TUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8880997,
+          36.1983986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PowerBI_ID": 95,
+        "AirportCode": "SJU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0021,
+          18.4394
+        ]
+      }
+    }
+  ]
+}
