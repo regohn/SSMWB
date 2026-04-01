@@ -4,9 +4,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 0,
         "AirportCode": "HICKS PATRICK THOMAS",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -279,9 +280,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 1,
         "AirportCode": "THOMAS ANDREW W",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -554,9 +556,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 2,
         "AirportCode": "BALLANTONI BRETT ANTHONY",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -829,9 +832,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 3,
         "AirportCode": "BROWN JASON A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -1104,9 +1108,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 4,
         "AirportCode": "DAVIS DOMINIC A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 6
       },
       "geometry": {
         "type": "Polygon",
@@ -1379,9 +1384,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 5,
         "AirportCode": "DELVALLE JOHNNY",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 7
       },
       "geometry": {
         "type": "Polygon",
@@ -1654,9 +1660,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 6,
         "AirportCode": "ESCOBAR KAESEY",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -1929,9 +1936,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 7,
         "AirportCode": "ESCOBAR-XITUMUL NELSON G",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 9
       },
       "geometry": {
         "type": "Polygon",
@@ -2204,9 +2212,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 8,
         "AirportCode": "GALVAN MANUEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 10
       },
       "geometry": {
         "type": "Polygon",
@@ -2479,9 +2488,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 9,
         "AirportCode": "INCLAN SINCLAIR N",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 11
       },
       "geometry": {
         "type": "Polygon",
@@ -2754,9 +2764,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 10,
         "AirportCode": "KEMP DONTE ALLEN",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 12
       },
       "geometry": {
         "type": "Polygon",
@@ -3029,9 +3040,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 11,
         "AirportCode": "MAIMONE ANTHONY R",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 13
       },
       "geometry": {
         "type": "Polygon",
@@ -3304,9 +3316,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 12,
         "AirportCode": "MERENDA DAMON ROBERTO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 14
       },
       "geometry": {
         "type": "Polygon",
@@ -3579,9 +3592,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 13,
         "AirportCode": "MORIEL DANNY J",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 15
       },
       "geometry": {
         "type": "Polygon",
@@ -3854,9 +3868,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 14,
         "AirportCode": "PALENCIA JULIO R",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -4129,9 +4144,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 15,
         "AirportCode": "PEREZ PAUL E",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 17
       },
       "geometry": {
         "type": "Polygon",
@@ -4404,9 +4420,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 16,
         "AirportCode": "RILEY BARRY MICHAEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 18
       },
       "geometry": {
         "type": "Polygon",
@@ -4679,9 +4696,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 17,
         "AirportCode": "RODRIGUEZ ANDREW",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 19
       },
       "geometry": {
         "type": "Polygon",
@@ -4954,9 +4972,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 18,
         "AirportCode": "COURTEMANCHE CRAIG R",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 20
       },
       "geometry": {
         "type": "Polygon",
@@ -5229,9 +5248,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 19,
         "AirportCode": "DUBRAY RYAN M",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 21
       },
       "geometry": {
         "type": "Polygon",
@@ -5504,9 +5524,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 20,
         "AirportCode": "FERMIN DOMINGO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 22
       },
       "geometry": {
         "type": "Polygon",
@@ -5779,9 +5800,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 21,
         "AirportCode": "NOWAK ANDREW JAMES",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -6054,9 +6076,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 22,
         "AirportCode": "RAMOS FRAUSTO ROGELIO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 24
       },
       "geometry": {
         "type": "Polygon",
@@ -6329,9 +6352,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 23,
         "AirportCode": "SOARES KYLE R",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -6604,9 +6628,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 24,
         "AirportCode": "THOMPSON JUSTIN S",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 26
       },
       "geometry": {
         "type": "Polygon",
@@ -6879,9 +6904,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 25,
         "AirportCode": "WHITE CRAIG A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 27
       },
       "geometry": {
         "type": "Polygon",
@@ -7154,9 +7180,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 26,
         "AirportCode": "GRAYBILL BRIAN C",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 28
       },
       "geometry": {
         "type": "Polygon",
@@ -7429,9 +7456,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 27,
         "AirportCode": "DEVOE DEXTER S",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 29
       },
       "geometry": {
         "type": "Polygon",
@@ -7704,9 +7732,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 28,
         "AirportCode": "JOHNSON JARED LEE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 30
       },
       "geometry": {
         "type": "Polygon",
@@ -7979,9 +8008,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 29,
         "AirportCode": "LANGHELD KURT ANDREW",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 31
       },
       "geometry": {
         "type": "Polygon",
@@ -8254,9 +8284,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 30,
         "AirportCode": "MIRANDA GONZALO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 32
       },
       "geometry": {
         "type": "Polygon",
@@ -8529,9 +8560,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 31,
         "AirportCode": "NAI ANTHONY M",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 33
       },
       "geometry": {
         "type": "Polygon",
@@ -8804,9 +8836,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 32,
         "AirportCode": "O'CONNOR JOHN PAUL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 34
       },
       "geometry": {
         "type": "Polygon",
@@ -9079,9 +9112,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 33,
         "AirportCode": "SANCHEZ JONATHAN L",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -9354,9 +9388,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 34,
         "AirportCode": "AIKENS STEFPHON",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 36
       },
       "geometry": {
         "type": "Polygon",
@@ -9629,9 +9664,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 35,
         "AirportCode": "JOYCE KYLE PETER",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 37
       },
       "geometry": {
         "type": "Polygon",
@@ -9904,9 +9940,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 36,
         "AirportCode": "HERNANDEZ MICHAEL A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 38
       },
       "geometry": {
         "type": "Polygon",
@@ -10179,9 +10216,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 37,
         "AirportCode": "KIRBY JERMAINE B",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 39
       },
       "geometry": {
         "type": "Polygon",
@@ -10454,9 +10492,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 38,
         "AirportCode": "ABOITE MICHAEL A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 40
       },
       "geometry": {
         "type": "Polygon",
@@ -10729,9 +10768,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 39,
         "AirportCode": "AYALA ZACHARY DANIEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 41
       },
       "geometry": {
         "type": "Polygon",
@@ -11004,9 +11044,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 40,
         "AirportCode": "BALTAZAR JOSE N",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 42
       },
       "geometry": {
         "type": "Polygon",
@@ -11279,9 +11320,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 41,
         "AirportCode": "BENITEZ MICHAEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 43
       },
       "geometry": {
         "type": "Polygon",
@@ -11554,9 +11596,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 42,
         "AirportCode": "BOWMAN BERNARD GEORGE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 44
       },
       "geometry": {
         "type": "Polygon",
@@ -11829,9 +11872,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 43,
         "AirportCode": "BUCK CAMERON THOMAS",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 45
       },
       "geometry": {
         "type": "Polygon",
@@ -12104,9 +12148,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 44,
         "AirportCode": "CURRY JARED D",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 46
       },
       "geometry": {
         "type": "Polygon",
@@ -12379,9 +12424,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 45,
         "AirportCode": "DINGAS TYLER MICHAEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 47
       },
       "geometry": {
         "type": "Polygon",
@@ -12654,9 +12700,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 46,
         "AirportCode": "ECHEVARRIA SERGIO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 48
       },
       "geometry": {
         "type": "Polygon",
@@ -12929,9 +12976,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 47,
         "AirportCode": "FORMAN EVAN J",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 49
       },
       "geometry": {
         "type": "Polygon",
@@ -13204,9 +13252,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 48,
         "AirportCode": "GALINDO JUAN M",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 50
       },
       "geometry": {
         "type": "Polygon",
@@ -13479,9 +13528,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 49,
         "AirportCode": "GONZALEZ ALFONSO ROLANDO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 51
       },
       "geometry": {
         "type": "Polygon",
@@ -13754,9 +13804,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 50,
         "AirportCode": "GONZALEZ ERIK JESUS",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 52
       },
       "geometry": {
         "type": "Polygon",
@@ -14029,9 +14080,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 51,
         "AirportCode": "HICKS JOSEPH R",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 53
       },
       "geometry": {
         "type": "Polygon",
@@ -14304,9 +14356,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 52,
         "AirportCode": "HORTON TIMOTHY CRYSTION",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 54
       },
       "geometry": {
         "type": "Polygon",
@@ -14579,9 +14632,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 53,
         "AirportCode": "JAMES MATTHEW J",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -14854,9 +14908,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 54,
         "AirportCode": "JOHNSON ISAIAH LEE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 56
       },
       "geometry": {
         "type": "Polygon",
@@ -15129,9 +15184,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 55,
         "AirportCode": "JONES KI-JANI JORDAN",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 57
       },
       "geometry": {
         "type": "Polygon",
@@ -15404,9 +15460,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 56,
         "AirportCode": "LABOY TAYLOR",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 58
       },
       "geometry": {
         "type": "Polygon",
@@ -15679,9 +15736,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 57,
         "AirportCode": "MAIORINO MICHAEL A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 59
       },
       "geometry": {
         "type": "Polygon",
@@ -15954,9 +16012,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 58,
         "AirportCode": "MARTINEZ FLORES KATIA",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 60
       },
       "geometry": {
         "type": "Polygon",
@@ -16229,9 +16288,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 59,
         "AirportCode": "MELTON JUSTIN WILLIAM",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 61
       },
       "geometry": {
         "type": "Polygon",
@@ -16504,9 +16564,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 60,
         "AirportCode": "MILLS JEVAUGHN A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 62
       },
       "geometry": {
         "type": "Polygon",
@@ -16779,9 +16840,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 61,
         "AirportCode": "MUNOZ DANIEL A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 63
       },
       "geometry": {
         "type": "Polygon",
@@ -17054,9 +17116,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 62,
         "AirportCode": "ORDIALES KEVIN C",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 64
       },
       "geometry": {
         "type": "Polygon",
@@ -17329,9 +17392,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 63,
         "AirportCode": "PEREZ JAVIER",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 65
       },
       "geometry": {
         "type": "Polygon",
@@ -17604,9 +17668,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 64,
         "AirportCode": "PRISCO MASON G",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 66
       },
       "geometry": {
         "type": "Polygon",
@@ -17879,9 +17944,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 65,
         "AirportCode": "RIVERA ORTIZ JOSE ANGEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 67
       },
       "geometry": {
         "type": "Polygon",
@@ -18154,9 +18220,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 66,
         "AirportCode": "SCOTT WILLIAM LEO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 68
       },
       "geometry": {
         "type": "Polygon",
@@ -18429,9 +18496,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 67,
         "AirportCode": "SCROFANO BRANDO G",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 69
       },
       "geometry": {
         "type": "Polygon",
@@ -18704,9 +18772,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 68,
         "AirportCode": "TELLES EDGAR L",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 70
       },
       "geometry": {
         "type": "Polygon",
@@ -18979,9 +19048,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 69,
         "AirportCode": "VASCONEZ ELIJAH J",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 71
       },
       "geometry": {
         "type": "Polygon",
@@ -19254,9 +19324,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 70,
         "AirportCode": "DAVILA MARCO A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 72
       },
       "geometry": {
         "type": "Polygon",
@@ -19529,9 +19600,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 71,
         "AirportCode": "EDRY CHRISTOPHER R",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 73
       },
       "geometry": {
         "type": "Polygon",
@@ -19804,9 +19876,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 72,
         "AirportCode": "FILOTEO ANDREW R",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 74
       },
       "geometry": {
         "type": "Polygon",
@@ -20079,9 +20152,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 73,
         "AirportCode": "GILMOUR SARAH GRACE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 75
       },
       "geometry": {
         "type": "Polygon",
@@ -20354,9 +20428,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 74,
         "AirportCode": "GOMEZ ROBERTO ALDO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 76
       },
       "geometry": {
         "type": "Polygon",
@@ -20629,9 +20704,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 75,
         "AirportCode": "LEE NATHANIEL R",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 77
       },
       "geometry": {
         "type": "Polygon",
@@ -20904,9 +20980,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 76,
         "AirportCode": "LOFTON MARCUS DEVIN",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 78
       },
       "geometry": {
         "type": "Polygon",
@@ -21179,9 +21256,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 77,
         "AirportCode": "MAYBERRY STANFORD IMANI",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 79
       },
       "geometry": {
         "type": "Polygon",
@@ -21454,9 +21532,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 78,
         "AirportCode": "MORALES ALEXIS",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 80
       },
       "geometry": {
         "type": "Polygon",
@@ -21729,9 +21808,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 79,
         "AirportCode": "NEGRETE FERNANDO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 81
       },
       "geometry": {
         "type": "Polygon",
@@ -22004,9 +22084,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 80,
         "AirportCode": "NELSON KALI",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 82
       },
       "geometry": {
         "type": "Polygon",
@@ -22279,9 +22360,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 81,
         "AirportCode": "NOMESIRI CHANTHALA",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 83
       },
       "geometry": {
         "type": "Polygon",
@@ -22554,9 +22636,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 82,
         "AirportCode": "RIEHM NICOLAS EVAN",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 84
       },
       "geometry": {
         "type": "Polygon",
@@ -22829,9 +22912,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 83,
         "AirportCode": "TOLE ZACHERY JOHN",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 85
       },
       "geometry": {
         "type": "Polygon",
@@ -23104,9 +23188,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 84,
         "AirportCode": "WIERSMA TRISTIN JASON",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 86
       },
       "geometry": {
         "type": "Polygon",
@@ -23379,9 +23464,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 85,
         "AirportCode": "ARMSTRONG JARED O",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 87
       },
       "geometry": {
         "type": "Polygon",
@@ -23654,9 +23740,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 86,
         "AirportCode": "AVILES ALFREDO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 88
       },
       "geometry": {
         "type": "Polygon",
@@ -23929,9 +24016,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 87,
         "AirportCode": "BABIKOV ALEXEY",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 89
       },
       "geometry": {
         "type": "Polygon",
@@ -24204,9 +24292,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 88,
         "AirportCode": "BATES AARON",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 90
       },
       "geometry": {
         "type": "Polygon",
@@ -24479,9 +24568,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 89,
         "AirportCode": "CARMONA CARLOS ALFREDO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 91
       },
       "geometry": {
         "type": "Polygon",
@@ -24754,9 +24844,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 90,
         "AirportCode": "COX ERIC A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 92
       },
       "geometry": {
         "type": "Polygon",
@@ -25029,9 +25120,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 91,
         "AirportCode": "GONZALEZ MIKE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 93
       },
       "geometry": {
         "type": "Polygon",
@@ -25304,9 +25396,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 92,
         "AirportCode": "MCGILL JR DUANE T.",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 94
       },
       "geometry": {
         "type": "Polygon",
@@ -25579,9 +25672,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 93,
         "AirportCode": "MURILLEJO KRISTIAN SAMIR",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 95
       },
       "geometry": {
         "type": "Polygon",
@@ -25854,9 +25948,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 94,
         "AirportCode": "ROBLES LUIS JOSUE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 96
       },
       "geometry": {
         "type": "Polygon",
@@ -26129,9 +26224,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 95,
         "AirportCode": "TARQUI JOSE ISRAEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 97
       },
       "geometry": {
         "type": "Polygon",
@@ -26404,9 +26500,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 96,
         "AirportCode": "TOONE STEVEN CHRISTOPHER",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 98
       },
       "geometry": {
         "type": "Polygon",
@@ -26679,9 +26776,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 97,
         "AirportCode": "VILLAREAL LOUIE ROBERT",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 99
       },
       "geometry": {
         "type": "Polygon",
@@ -26954,9 +27052,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 98,
         "AirportCode": "WATERS ANDREW LEE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 100
       },
       "geometry": {
         "type": "Polygon",
@@ -27229,9 +27328,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 99,
         "AirportCode": "BULTRON JAVIER",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 101
       },
       "geometry": {
         "type": "Polygon",
@@ -27504,9 +27604,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 100,
         "AirportCode": "MUNET LUIS FERNANDO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 102
       },
       "geometry": {
         "type": "Polygon",
@@ -27779,9 +27880,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 101,
         "AirportCode": "OCHOA MARTINEZ JOSE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 103
       },
       "geometry": {
         "type": "Polygon",
@@ -28054,9 +28156,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 102,
         "AirportCode": "VELEZ CORTES ALFONSO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 104
       },
       "geometry": {
         "type": "Polygon",
@@ -28329,9 +28432,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 103,
         "AirportCode": "STOPIELLO MARCELO J",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 105
       },
       "geometry": {
         "type": "Polygon",
@@ -28604,9 +28708,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 104,
         "AirportCode": "APONTE FELIX",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 106
       },
       "geometry": {
         "type": "Polygon",
@@ -28879,9 +28984,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 105,
         "AirportCode": "FLORES ALGORRI DARED",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 107
       },
       "geometry": {
         "type": "Polygon",
@@ -29154,9 +29260,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 106,
         "AirportCode": "GALARZA MUNIZ ADRIAN JOSUE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 108
       },
       "geometry": {
         "type": "Polygon",
@@ -29429,9 +29536,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 107,
         "AirportCode": "ORTIZ ROBERTO R",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 109
       },
       "geometry": {
         "type": "Polygon",
@@ -29704,9 +29812,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 108,
         "AirportCode": "QUINONES ORTIZ OMAR JAYSON",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 110
       },
       "geometry": {
         "type": "Polygon",
@@ -29979,9 +30088,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 109,
         "AirportCode": "RIVERA LOPEZ JOSE O",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 111
       },
       "geometry": {
         "type": "Polygon",
@@ -30254,9 +30364,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 110,
         "AirportCode": "RIVERA MOUX ANDRES DAVID",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 112
       },
       "geometry": {
         "type": "Polygon",
@@ -30529,9 +30640,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 111,
         "AirportCode": "VALENTIN TORRES OMALDY",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 113
       },
       "geometry": {
         "type": "Polygon",
@@ -30804,9 +30916,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 112,
         "AirportCode": "COTTO COLON MAGDIEL O",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 114
       },
       "geometry": {
         "type": "Polygon",
@@ -31079,9 +31192,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 113,
         "AirportCode": "FELICIANO MARTINEZ IVAN G",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 115
       },
       "geometry": {
         "type": "Polygon",
@@ -31354,9 +31468,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 114,
         "AirportCode": "FIGUEROA ROBLES CARLOS JOEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 116
       },
       "geometry": {
         "type": "Polygon",
@@ -31629,9 +31744,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 115,
         "AirportCode": "PORRATA CRUZ ERIC A",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 117
       },
       "geometry": {
         "type": "Polygon",
@@ -31904,9 +32020,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 116,
         "AirportCode": "CRUZ VIERA CARLOS GERADO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 118
       },
       "geometry": {
         "type": "Polygon",
@@ -32179,9 +32296,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 117,
         "AirportCode": "GUZMAN QUINONES RAFAEL ALFONSO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 119
       },
       "geometry": {
         "type": "Polygon",
@@ -32454,9 +32572,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 118,
         "AirportCode": "ROLON NEGRON GIOVANNI AMED",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 120
       },
       "geometry": {
         "type": "Polygon",
@@ -32729,9 +32848,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 119,
         "AirportCode": "TAVAREZ GUZMAN ANTHONY",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 121
       },
       "geometry": {
         "type": "Polygon",
@@ -33004,9 +33124,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 120,
         "AirportCode": "ARROYO ABDIEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 122
       },
       "geometry": {
         "type": "Polygon",
@@ -33279,9 +33400,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 121,
         "AirportCode": "GARCIA QUINONES LUIS ENRIQUE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 123
       },
       "geometry": {
         "type": "Polygon",
@@ -33554,9 +33676,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 122,
         "AirportCode": "GOMEZ ANGEL GABRIEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 124
       },
       "geometry": {
         "type": "Polygon",
@@ -33829,9 +33952,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 123,
         "AirportCode": "MACHUCA LUIS ARMANDO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 125
       },
       "geometry": {
         "type": "Polygon",
@@ -34104,9 +34228,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 124,
         "AirportCode": "MELENDEZ SANTIAGO ROBERTO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 126
       },
       "geometry": {
         "type": "Polygon",
@@ -34379,9 +34504,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 125,
         "AirportCode": "NUNEZ NARVAEZ FELIX MANUEL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 127
       },
       "geometry": {
         "type": "Polygon",
@@ -34654,9 +34780,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 126,
         "AirportCode": "PEREZ RODRIGUEZ FREDDIE",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 128
       },
       "geometry": {
         "type": "Polygon",
@@ -34929,9 +35056,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 127,
         "AirportCode": "PEREZ SANTIAGO WILLIAM A.",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 129
       },
       "geometry": {
         "type": "Polygon",
@@ -35204,9 +35332,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 128,
         "AirportCode": "PLACERES OSVALDO",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 130
       },
       "geometry": {
         "type": "Polygon",
@@ -35479,9 +35608,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 129,
         "AirportCode": "RODRIGUEZ VICTOR YEREL",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 131
       },
       "geometry": {
         "type": "Polygon",
@@ -35754,9 +35884,10 @@
     {
       "type": "Feature",
       "properties": {
+        "PowerBI_ID": 130,
         "AirportCode": "RODRIGUEZ-CORTES ALEX XAVIER",
         "Category": "Airport",
-        "Radius": "50 Miles"
+        "SourceRow": 132
       },
       "geometry": {
         "type": "Polygon",
