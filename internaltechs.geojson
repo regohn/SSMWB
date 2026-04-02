@@ -7,7 +7,7 @@
         "PowerBI_ID": 0,
         "AirportCode": "HICKS PATRICK THOMAS",
         "color": "#FFA500",
-        "point_radius": 12
+        "point_radius": 100
       },
       "geometry": {
         "type": "Point",
