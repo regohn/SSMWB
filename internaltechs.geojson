@@ -6,8 +6,8 @@
       "properties": {
         "PowerBI_ID": 0,
         "AirportCode": "HICKS PATRICK THOMAS",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -22,8 +22,8 @@
       "properties": {
         "PowerBI_ID": 1,
         "AirportCode": "THOMAS ANDREW W",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -38,8 +38,8 @@
       "properties": {
         "PowerBI_ID": 2,
         "AirportCode": "BALLANTONI BRETT ANTHONY",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -54,8 +54,8 @@
       "properties": {
         "PowerBI_ID": 3,
         "AirportCode": "BROWN JASON A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -70,8 +70,8 @@
       "properties": {
         "PowerBI_ID": 4,
         "AirportCode": "DAVIS DOMINIC A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -86,8 +86,8 @@
       "properties": {
         "PowerBI_ID": 5,
         "AirportCode": "DELVALLE JOHNNY",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -102,8 +102,8 @@
       "properties": {
         "PowerBI_ID": 6,
         "AirportCode": "ESCOBAR KAESEY",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -118,8 +118,8 @@
       "properties": {
         "PowerBI_ID": 7,
         "AirportCode": "ESCOBAR-XITUMUL NELSON G",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -134,8 +134,8 @@
       "properties": {
         "PowerBI_ID": 8,
         "AirportCode": "GALVAN MANUEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -150,8 +150,8 @@
       "properties": {
         "PowerBI_ID": 9,
         "AirportCode": "INCLAN SINCLAIR N",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -166,8 +166,8 @@
       "properties": {
         "PowerBI_ID": 10,
         "AirportCode": "KEMP DONTE ALLEN",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -182,8 +182,8 @@
       "properties": {
         "PowerBI_ID": 11,
         "AirportCode": "MAIMONE ANTHONY R",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -198,8 +198,8 @@
       "properties": {
         "PowerBI_ID": 12,
         "AirportCode": "MERENDA DAMON ROBERTO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -214,8 +214,8 @@
       "properties": {
         "PowerBI_ID": 13,
         "AirportCode": "MORIEL DANNY J",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -230,8 +230,8 @@
       "properties": {
         "PowerBI_ID": 14,
         "AirportCode": "PALENCIA JULIO R",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -246,8 +246,8 @@
       "properties": {
         "PowerBI_ID": 15,
         "AirportCode": "PEREZ PAUL E",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -262,8 +262,8 @@
       "properties": {
         "PowerBI_ID": 16,
         "AirportCode": "RILEY BARRY MICHAEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -278,8 +278,8 @@
       "properties": {
         "PowerBI_ID": 17,
         "AirportCode": "RODRIGUEZ ANDREW",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -294,8 +294,8 @@
       "properties": {
         "PowerBI_ID": 18,
         "AirportCode": "COURTEMANCHE CRAIG R",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -310,8 +310,8 @@
       "properties": {
         "PowerBI_ID": 19,
         "AirportCode": "DUBRAY RYAN M",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -326,8 +326,8 @@
       "properties": {
         "PowerBI_ID": 20,
         "AirportCode": "FERMIN DOMINGO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -342,8 +342,8 @@
       "properties": {
         "PowerBI_ID": 21,
         "AirportCode": "NOWAK ANDREW JAMES",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -358,8 +358,8 @@
       "properties": {
         "PowerBI_ID": 22,
         "AirportCode": "RAMOS FRAUSTO ROGELIO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -374,8 +374,8 @@
       "properties": {
         "PowerBI_ID": 23,
         "AirportCode": "SOARES KYLE R",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -390,8 +390,8 @@
       "properties": {
         "PowerBI_ID": 24,
         "AirportCode": "THOMPSON JUSTIN S",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -406,8 +406,8 @@
       "properties": {
         "PowerBI_ID": 25,
         "AirportCode": "WHITE CRAIG A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -422,8 +422,8 @@
       "properties": {
         "PowerBI_ID": 26,
         "AirportCode": "GRAYBILL BRIAN C",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -438,8 +438,8 @@
       "properties": {
         "PowerBI_ID": 27,
         "AirportCode": "DEVOE DEXTER S",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -454,8 +454,8 @@
       "properties": {
         "PowerBI_ID": 28,
         "AirportCode": "JOHNSON JARED LEE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -470,8 +470,8 @@
       "properties": {
         "PowerBI_ID": 29,
         "AirportCode": "LANGHELD KURT ANDREW",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -486,8 +486,8 @@
       "properties": {
         "PowerBI_ID": 30,
         "AirportCode": "MIRANDA GONZALO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -502,8 +502,8 @@
       "properties": {
         "PowerBI_ID": 31,
         "AirportCode": "NAI ANTHONY M",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -518,8 +518,8 @@
       "properties": {
         "PowerBI_ID": 32,
         "AirportCode": "O'CONNOR JOHN PAUL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -534,8 +534,8 @@
       "properties": {
         "PowerBI_ID": 33,
         "AirportCode": "SANCHEZ JONATHAN L",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -550,8 +550,8 @@
       "properties": {
         "PowerBI_ID": 34,
         "AirportCode": "AIKENS STEFPHON",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -566,8 +566,8 @@
       "properties": {
         "PowerBI_ID": 35,
         "AirportCode": "JOYCE KYLE PETER",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -582,8 +582,8 @@
       "properties": {
         "PowerBI_ID": 36,
         "AirportCode": "HERNANDEZ MICHAEL A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -598,8 +598,8 @@
       "properties": {
         "PowerBI_ID": 37,
         "AirportCode": "KIRBY JERMAINE B",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -614,8 +614,8 @@
       "properties": {
         "PowerBI_ID": 38,
         "AirportCode": "ABOITE MICHAEL A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -630,8 +630,8 @@
       "properties": {
         "PowerBI_ID": 39,
         "AirportCode": "AYALA ZACHARY DANIEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -646,8 +646,8 @@
       "properties": {
         "PowerBI_ID": 40,
         "AirportCode": "BALTAZAR JOSE N",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -662,8 +662,8 @@
       "properties": {
         "PowerBI_ID": 41,
         "AirportCode": "BENITEZ MICHAEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -678,8 +678,8 @@
       "properties": {
         "PowerBI_ID": 42,
         "AirportCode": "BOWMAN BERNARD GEORGE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -694,8 +694,8 @@
       "properties": {
         "PowerBI_ID": 43,
         "AirportCode": "BUCK CAMERON THOMAS",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -710,8 +710,8 @@
       "properties": {
         "PowerBI_ID": 44,
         "AirportCode": "CURRY JARED D",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -726,8 +726,8 @@
       "properties": {
         "PowerBI_ID": 45,
         "AirportCode": "DINGAS TYLER MICHAEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -742,8 +742,8 @@
       "properties": {
         "PowerBI_ID": 46,
         "AirportCode": "ECHEVARRIA SERGIO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -758,8 +758,8 @@
       "properties": {
         "PowerBI_ID": 47,
         "AirportCode": "FORMAN EVAN J",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -774,8 +774,8 @@
       "properties": {
         "PowerBI_ID": 48,
         "AirportCode": "GALINDO JUAN M",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -790,8 +790,8 @@
       "properties": {
         "PowerBI_ID": 49,
         "AirportCode": "GONZALEZ ALFONSO ROLANDO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -806,8 +806,8 @@
       "properties": {
         "PowerBI_ID": 50,
         "AirportCode": "GONZALEZ ERIK JESUS",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -822,8 +822,8 @@
       "properties": {
         "PowerBI_ID": 51,
         "AirportCode": "HICKS JOSEPH R",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -838,8 +838,8 @@
       "properties": {
         "PowerBI_ID": 52,
         "AirportCode": "HORTON TIMOTHY CRYSTION",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -854,8 +854,8 @@
       "properties": {
         "PowerBI_ID": 53,
         "AirportCode": "JAMES MATTHEW J",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -870,8 +870,8 @@
       "properties": {
         "PowerBI_ID": 54,
         "AirportCode": "JOHNSON ISAIAH LEE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -886,8 +886,8 @@
       "properties": {
         "PowerBI_ID": 55,
         "AirportCode": "JONES KI-JANI JORDAN",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -902,8 +902,8 @@
       "properties": {
         "PowerBI_ID": 56,
         "AirportCode": "LABOY TAYLOR",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -918,8 +918,8 @@
       "properties": {
         "PowerBI_ID": 57,
         "AirportCode": "MAIORINO MICHAEL A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -934,8 +934,8 @@
       "properties": {
         "PowerBI_ID": 58,
         "AirportCode": "MARTINEZ FLORES KATIA",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -950,8 +950,8 @@
       "properties": {
         "PowerBI_ID": 59,
         "AirportCode": "MELTON JUSTIN WILLIAM",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -966,8 +966,8 @@
       "properties": {
         "PowerBI_ID": 60,
         "AirportCode": "MILLS JEVAUGHN A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -982,8 +982,8 @@
       "properties": {
         "PowerBI_ID": 61,
         "AirportCode": "MUNOZ DANIEL A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -998,8 +998,8 @@
       "properties": {
         "PowerBI_ID": 62,
         "AirportCode": "ORDIALES KEVIN C",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1014,8 +1014,8 @@
       "properties": {
         "PowerBI_ID": 63,
         "AirportCode": "PEREZ JAVIER",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1030,8 +1030,8 @@
       "properties": {
         "PowerBI_ID": 64,
         "AirportCode": "PRISCO MASON G",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1046,8 +1046,8 @@
       "properties": {
         "PowerBI_ID": 65,
         "AirportCode": "RIVERA ORTIZ JOSE ANGEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1062,8 +1062,8 @@
       "properties": {
         "PowerBI_ID": 66,
         "AirportCode": "SCOTT WILLIAM LEO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1078,8 +1078,8 @@
       "properties": {
         "PowerBI_ID": 67,
         "AirportCode": "SCROFANO BRANDO G",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1094,8 +1094,8 @@
       "properties": {
         "PowerBI_ID": 68,
         "AirportCode": "TELLES EDGAR L",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1110,8 +1110,8 @@
       "properties": {
         "PowerBI_ID": 69,
         "AirportCode": "VASCONEZ ELIJAH J",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1126,8 +1126,8 @@
       "properties": {
         "PowerBI_ID": 70,
         "AirportCode": "DAVILA MARCO A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1142,8 +1142,8 @@
       "properties": {
         "PowerBI_ID": 71,
         "AirportCode": "EDRY CHRISTOPHER R",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1158,8 +1158,8 @@
       "properties": {
         "PowerBI_ID": 72,
         "AirportCode": "FILOTEO ANDREW R",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1174,8 +1174,8 @@
       "properties": {
         "PowerBI_ID": 73,
         "AirportCode": "GILMOUR SARAH GRACE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1190,8 +1190,8 @@
       "properties": {
         "PowerBI_ID": 74,
         "AirportCode": "GOMEZ ROBERTO ALDO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1206,8 +1206,8 @@
       "properties": {
         "PowerBI_ID": 75,
         "AirportCode": "LEE NATHANIEL R",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1222,8 +1222,8 @@
       "properties": {
         "PowerBI_ID": 76,
         "AirportCode": "LOFTON MARCUS DEVIN",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1238,8 +1238,8 @@
       "properties": {
         "PowerBI_ID": 77,
         "AirportCode": "MAYBERRY STANFORD IMANI",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1254,8 +1254,8 @@
       "properties": {
         "PowerBI_ID": 78,
         "AirportCode": "MORALES ALEXIS",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1270,8 +1270,8 @@
       "properties": {
         "PowerBI_ID": 79,
         "AirportCode": "NEGRETE FERNANDO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1286,8 +1286,8 @@
       "properties": {
         "PowerBI_ID": 80,
         "AirportCode": "NELSON KALI",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1302,8 +1302,8 @@
       "properties": {
         "PowerBI_ID": 81,
         "AirportCode": "NOMESIRI CHANTHALA",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1318,8 +1318,8 @@
       "properties": {
         "PowerBI_ID": 82,
         "AirportCode": "RIEHM NICOLAS EVAN",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1334,8 +1334,8 @@
       "properties": {
         "PowerBI_ID": 83,
         "AirportCode": "TOLE ZACHERY JOHN",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1350,8 +1350,8 @@
       "properties": {
         "PowerBI_ID": 84,
         "AirportCode": "WIERSMA TRISTIN JASON",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1366,8 +1366,8 @@
       "properties": {
         "PowerBI_ID": 85,
         "AirportCode": "ARMSTRONG JARED O",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1382,8 +1382,8 @@
       "properties": {
         "PowerBI_ID": 86,
         "AirportCode": "AVILES ALFREDO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1398,8 +1398,8 @@
       "properties": {
         "PowerBI_ID": 87,
         "AirportCode": "BABIKOV ALEXEY",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1414,8 +1414,8 @@
       "properties": {
         "PowerBI_ID": 88,
         "AirportCode": "BATES AARON",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1430,8 +1430,8 @@
       "properties": {
         "PowerBI_ID": 89,
         "AirportCode": "CARMONA CARLOS ALFREDO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1446,8 +1446,8 @@
       "properties": {
         "PowerBI_ID": 90,
         "AirportCode": "COX ERIC A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1462,8 +1462,8 @@
       "properties": {
         "PowerBI_ID": 91,
         "AirportCode": "GONZALEZ MIKE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1478,8 +1478,8 @@
       "properties": {
         "PowerBI_ID": 92,
         "AirportCode": "MCGILL JR DUANE T.",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1494,8 +1494,8 @@
       "properties": {
         "PowerBI_ID": 93,
         "AirportCode": "MURILLEJO KRISTIAN SAMIR",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1510,8 +1510,8 @@
       "properties": {
         "PowerBI_ID": 94,
         "AirportCode": "ROBLES LUIS JOSUE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1526,8 +1526,8 @@
       "properties": {
         "PowerBI_ID": 95,
         "AirportCode": "TARQUI JOSE ISRAEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1542,8 +1542,8 @@
       "properties": {
         "PowerBI_ID": 96,
         "AirportCode": "TOONE STEVEN CHRISTOPHER",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1558,8 +1558,8 @@
       "properties": {
         "PowerBI_ID": 97,
         "AirportCode": "VILLAREAL LOUIE ROBERT",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1574,8 +1574,8 @@
       "properties": {
         "PowerBI_ID": 98,
         "AirportCode": "WATERS ANDREW LEE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1590,8 +1590,8 @@
       "properties": {
         "PowerBI_ID": 99,
         "AirportCode": "BULTRON JAVIER",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1606,8 +1606,8 @@
       "properties": {
         "PowerBI_ID": 100,
         "AirportCode": "MUNET LUIS FERNANDO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1622,8 +1622,8 @@
       "properties": {
         "PowerBI_ID": 101,
         "AirportCode": "OCHOA MARTINEZ JOSE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1638,8 +1638,8 @@
       "properties": {
         "PowerBI_ID": 102,
         "AirportCode": "VELEZ CORTES ALFONSO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1654,8 +1654,8 @@
       "properties": {
         "PowerBI_ID": 103,
         "AirportCode": "STOPIELLO MARCELO J",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1670,8 +1670,8 @@
       "properties": {
         "PowerBI_ID": 104,
         "AirportCode": "APONTE FELIX",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1686,8 +1686,8 @@
       "properties": {
         "PowerBI_ID": 105,
         "AirportCode": "FLORES ALGORRI DARED",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1702,8 +1702,8 @@
       "properties": {
         "PowerBI_ID": 106,
         "AirportCode": "GALARZA MUNIZ ADRIAN JOSUE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1718,8 +1718,8 @@
       "properties": {
         "PowerBI_ID": 107,
         "AirportCode": "ORTIZ ROBERTO R",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1734,8 +1734,8 @@
       "properties": {
         "PowerBI_ID": 108,
         "AirportCode": "QUINONES ORTIZ OMAR JAYSON",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1750,8 +1750,8 @@
       "properties": {
         "PowerBI_ID": 109,
         "AirportCode": "RIVERA LOPEZ JOSE O",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1766,8 +1766,8 @@
       "properties": {
         "PowerBI_ID": 110,
         "AirportCode": "RIVERA MOUX ANDRES DAVID",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1782,8 +1782,8 @@
       "properties": {
         "PowerBI_ID": 111,
         "AirportCode": "VALENTIN TORRES OMALDY",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1798,8 +1798,8 @@
       "properties": {
         "PowerBI_ID": 112,
         "AirportCode": "COTTO COLON MAGDIEL O",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1814,8 +1814,8 @@
       "properties": {
         "PowerBI_ID": 113,
         "AirportCode": "FELICIANO MARTINEZ IVAN G",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1830,8 +1830,8 @@
       "properties": {
         "PowerBI_ID": 114,
         "AirportCode": "FIGUEROA ROBLES CARLOS JOEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1846,8 +1846,8 @@
       "properties": {
         "PowerBI_ID": 115,
         "AirportCode": "PORRATA CRUZ ERIC A",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1862,8 +1862,8 @@
       "properties": {
         "PowerBI_ID": 116,
         "AirportCode": "CRUZ VIERA CARLOS GERADO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1878,8 +1878,8 @@
       "properties": {
         "PowerBI_ID": 117,
         "AirportCode": "GUZMAN QUINONES RAFAEL ALFONSO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1894,8 +1894,8 @@
       "properties": {
         "PowerBI_ID": 118,
         "AirportCode": "ROLON NEGRON GIOVANNI AMED",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1910,8 +1910,8 @@
       "properties": {
         "PowerBI_ID": 119,
         "AirportCode": "TAVAREZ GUZMAN ANTHONY",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1926,8 +1926,8 @@
       "properties": {
         "PowerBI_ID": 120,
         "AirportCode": "ARROYO ABDIEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1942,8 +1942,8 @@
       "properties": {
         "PowerBI_ID": 121,
         "AirportCode": "GARCIA QUINONES LUIS ENRIQUE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1958,8 +1958,8 @@
       "properties": {
         "PowerBI_ID": 122,
         "AirportCode": "GOMEZ ANGEL GABRIEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1974,8 +1974,8 @@
       "properties": {
         "PowerBI_ID": 123,
         "AirportCode": "MACHUCA LUIS ARMANDO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -1990,8 +1990,8 @@
       "properties": {
         "PowerBI_ID": 124,
         "AirportCode": "MELENDEZ SANTIAGO ROBERTO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -2006,8 +2006,8 @@
       "properties": {
         "PowerBI_ID": 125,
         "AirportCode": "NUNEZ NARVAEZ FELIX MANUEL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -2022,8 +2022,8 @@
       "properties": {
         "PowerBI_ID": 126,
         "AirportCode": "PEREZ RODRIGUEZ FREDDIE",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -2038,8 +2038,8 @@
       "properties": {
         "PowerBI_ID": 127,
         "AirportCode": "PEREZ SANTIAGO WILLIAM A.",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -2054,8 +2054,8 @@
       "properties": {
         "PowerBI_ID": 128,
         "AirportCode": "PLACERES OSVALDO",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -2070,8 +2070,8 @@
       "properties": {
         "PowerBI_ID": 129,
         "AirportCode": "RODRIGUEZ VICTOR YEREL",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
@@ -2086,8 +2086,8 @@
       "properties": {
         "PowerBI_ID": 130,
         "AirportCode": "RODRIGUEZ-CORTES ALEX XAVIER",
-        "color": "#008000",
-        "point_radius": 6
+        "color": "#FFA500",
+        "point_radius": 12
       },
       "geometry": {
         "type": "Point",
