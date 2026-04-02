@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 0,
-        "AirportCode": "ABE"
+        "AirportCode": "ABE",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 1,
-        "AirportCode": "ACV"
+        "AirportCode": "ACV",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 2,
-        "AirportCode": "BDL"
+        "AirportCode": "BDL",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 3,
-        "AirportCode": "BFL"
+        "AirportCode": "BFL",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 4,
-        "AirportCode": "BOS"
+        "AirportCode": "BOS",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 5,
-        "AirportCode": "BTV"
+        "AirportCode": "BTV",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +95,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 6,
-        "AirportCode": "BUF"
+        "AirportCode": "BUF",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +110,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 7,
-        "AirportCode": "BWI"
+        "AirportCode": "BWI",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +125,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 8,
-        "AirportCode": "DEN"
+        "AirportCode": "DEN",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +140,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 9,
-        "AirportCode": "EWR"
+        "AirportCode": "EWR",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +155,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 10,
-        "AirportCode": "FAT"
+        "AirportCode": "FAT",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +170,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 11,
-        "AirportCode": "GJT"
+        "AirportCode": "GJT",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +185,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 12,
-        "AirportCode": "HVN"
+        "AirportCode": "HVN",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 13,
-        "AirportCode": "HYA"
+        "AirportCode": "HYA",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +215,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 14,
-        "AirportCode": "IFP"
+        "AirportCode": "IFP",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +230,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 15,
-        "AirportCode": "ISP"
+        "AirportCode": "ISP",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +245,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 16,
-        "AirportCode": "ITH"
+        "AirportCode": "ITH",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +260,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 17,
-        "AirportCode": "JFK"
+        "AirportCode": "JFK",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 18,
-        "AirportCode": "KOA"
+        "AirportCode": "KOA",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +290,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 19,
-        "AirportCode": "LAS"
+        "AirportCode": "LAS",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +305,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 20,
-        "AirportCode": "LAX"
+        "AirportCode": "LAX",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +320,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 21,
-        "AirportCode": "LGA"
+        "AirportCode": "LGA",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +335,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 22,
-        "AirportCode": "LGB"
+        "AirportCode": "LGB",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +350,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 23,
-        "AirportCode": "MCO"
+        "AirportCode": "MCO",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -341,7 +365,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 24,
-        "AirportCode": "MIA"
+        "AirportCode": "MIA",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +380,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 25,
-        "AirportCode": "MOD"
+        "AirportCode": "MOD",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +395,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 26,
-        "AirportCode": "MYV"
+        "AirportCode": "MYV",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +410,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 27,
-        "AirportCode": "OAK"
+        "AirportCode": "OAK",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -397,7 +425,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 28,
-        "AirportCode": "OGG"
+        "AirportCode": "OGG",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +440,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 29,
-        "AirportCode": "ONT"
+        "AirportCode": "ONT",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -425,7 +455,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 30,
-        "AirportCode": "ORD"
+        "AirportCode": "ORD",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +470,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 31,
-        "AirportCode": "OXR"
+        "AirportCode": "OXR",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +485,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 32,
-        "AirportCode": "PHL"
+        "AirportCode": "PHL",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +500,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 33,
-        "AirportCode": "PHX"
+        "AirportCode": "PHX",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -481,7 +515,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 34,
-        "AirportCode": "PSP"
+        "AirportCode": "PSP",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +530,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 35,
-        "AirportCode": "RDD"
+        "AirportCode": "RDD",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -509,7 +545,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 36,
-        "AirportCode": "RNO"
+        "AirportCode": "RNO",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -523,7 +560,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 37,
-        "AirportCode": "SAN"
+        "AirportCode": "SAN",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -537,7 +575,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 38,
-        "AirportCode": "SBD"
+        "AirportCode": "SBD",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +590,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 39,
-        "AirportCode": "SBP"
+        "AirportCode": "SBP",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -565,7 +605,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 40,
-        "AirportCode": "SDX"
+        "AirportCode": "SDX",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -579,7 +620,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 41,
-        "AirportCode": "SFO"
+        "AirportCode": "SFO",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -593,7 +635,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 42,
-        "AirportCode": "SJC"
+        "AirportCode": "SJC",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -607,7 +650,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 43,
-        "AirportCode": "SMF"
+        "AirportCode": "SMF",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +665,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 44,
-        "AirportCode": "SNA"
+        "AirportCode": "SNA",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -635,7 +680,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 45,
-        "AirportCode": "SPI"
+        "AirportCode": "SPI",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -649,7 +695,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 46,
-        "AirportCode": "STS"
+        "AirportCode": "STS",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +710,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 47,
-        "AirportCode": "SWF"
+        "AirportCode": "SWF",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -677,7 +725,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 48,
-        "AirportCode": "TPA"
+        "AirportCode": "TPA",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -691,7 +740,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 49,
-        "AirportCode": "TUS"
+        "AirportCode": "TUS",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -705,7 +755,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 50,
-        "AirportCode": "YUM"
+        "AirportCode": "YUM",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +770,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 51,
-        "AirportCode": "5A8"
+        "AirportCode": "5A8",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -733,7 +785,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 52,
-        "AirportCode": "ABQ"
+        "AirportCode": "ABQ",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +800,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 53,
-        "AirportCode": "ADW"
+        "AirportCode": "ADW",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -761,7 +815,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 54,
-        "AirportCode": "ATL"
+        "AirportCode": "ATL",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +830,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 55,
-        "AirportCode": "AUS"
+        "AirportCode": "AUS",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +845,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 56,
-        "AirportCode": "CLE"
+        "AirportCode": "CLE",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -803,7 +860,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 57,
-        "AirportCode": "CLT"
+        "AirportCode": "CLT",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -817,7 +875,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 58,
-        "AirportCode": "CMH"
+        "AirportCode": "CMH",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +890,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 59,
-        "AirportCode": "CVG"
+        "AirportCode": "CVG",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -845,7 +905,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 60,
-        "AirportCode": "DCA"
+        "AirportCode": "DCA",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -859,7 +920,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 61,
-        "AirportCode": "DFW"
+        "AirportCode": "DFW",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +935,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 62,
-        "AirportCode": "DMA"
+        "AirportCode": "DMA",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +950,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 63,
-        "AirportCode": "DTW"
+        "AirportCode": "DTW",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -901,7 +965,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 64,
-        "AirportCode": "FST"
+        "AirportCode": "FST",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +980,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 65,
-        "AirportCode": "IAD"
+        "AirportCode": "IAD",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -929,7 +995,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 66,
-        "AirportCode": "IAH"
+        "AirportCode": "IAH",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -943,7 +1010,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 67,
-        "AirportCode": "IND"
+        "AirportCode": "IND",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -957,7 +1025,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 68,
-        "AirportCode": "JAX"
+        "AirportCode": "JAX",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -971,7 +1040,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 69,
-        "AirportCode": "MCI"
+        "AirportCode": "MCI",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -985,7 +1055,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 70,
-        "AirportCode": "MDW"
+        "AirportCode": "MDW",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1070,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 71,
-        "AirportCode": "MEM"
+        "AirportCode": "MEM",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1013,7 +1085,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 72,
-        "AirportCode": "MKE"
+        "AirportCode": "MKE",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1027,7 +1100,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 73,
-        "AirportCode": "MSP"
+        "AirportCode": "MSP",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1115,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 74,
-        "AirportCode": "MSY"
+        "AirportCode": "MSY",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1055,7 +1130,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 75,
-        "AirportCode": "OKC"
+        "AirportCode": "OKC",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1069,7 +1145,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 76,
-        "AirportCode": "ORF"
+        "AirportCode": "ORF",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1160,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 77,
-        "AirportCode": "PBI"
+        "AirportCode": "PBI",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1097,7 +1175,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 78,
-        "AirportCode": "PDX"
+        "AirportCode": "PDX",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1111,7 +1190,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 79,
-        "AirportCode": "PIT"
+        "AirportCode": "PIT",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1125,7 +1205,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 80,
-        "AirportCode": "PVD"
+        "AirportCode": "PVD",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1139,7 +1220,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 81,
-        "AirportCode": "PWM"
+        "AirportCode": "PWM",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1153,7 +1235,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 82,
-        "AirportCode": "RDU"
+        "AirportCode": "RDU",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1167,7 +1250,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 83,
-        "AirportCode": "RIC"
+        "AirportCode": "RIC",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1181,7 +1265,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 84,
-        "AirportCode": "RSW"
+        "AirportCode": "RSW",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1195,7 +1280,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 85,
-        "AirportCode": "SAT"
+        "AirportCode": "SAT",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1209,7 +1295,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 86,
-        "AirportCode": "SAV"
+        "AirportCode": "SAV",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1223,7 +1310,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 87,
-        "AirportCode": "SDF"
+        "AirportCode": "SDF",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1237,7 +1325,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 88,
-        "AirportCode": "SEA"
+        "AirportCode": "SEA",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1340,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 89,
-        "AirportCode": "SFB"
+        "AirportCode": "SFB",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1265,7 +1355,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 90,
-        "AirportCode": "SLC"
+        "AirportCode": "SLC",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1279,7 +1370,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 91,
-        "AirportCode": "SRQ"
+        "AirportCode": "SRQ",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1293,7 +1385,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 92,
-        "AirportCode": "STL"
+        "AirportCode": "STL",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1307,7 +1400,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 93,
-        "AirportCode": "SYR"
+        "AirportCode": "SYR",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1321,7 +1415,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 94,
-        "AirportCode": "TUL"
+        "AirportCode": "TUL",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
@@ -1335,7 +1430,8 @@
       "type": "Feature",
       "properties": {
         "PowerBI_ID": 95,
-        "AirportCode": "SJU"
+        "AirportCode": "SJU",
+        "MarkerColor": "#008000"
       },
       "geometry": {
         "type": "Point",
